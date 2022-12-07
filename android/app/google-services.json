@@ -1,48 +1,128 @@
 {
   "project_info": {
-    "project_number": "221285397671",
-    "project_id": "chatapp-1f872",
-    "storage_bucket": "chatapp-1f872.appspot.com"
+    "project_number": "517419486566",
+    "project_id": "dados-d7024",
+    "storage_bucket": "dados-d7024.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:221285397671:android:1827d15ef4c64d10b6d782",
+        "mobilesdk_app_id": "1:517419486566:android:4855a9db2cee70401c8ca7",
         "android_client_info": {
-          "package_name": "kaleo.chat.app"
+          "package_name": "com.mycompany.telamaltaria"
         }
       },
       "oauth_client": [
         {
-          "client_id": "221285397671-vb1kg4uh4qsqn9jre32mvts8bitljifs.apps.googleusercontent.com",
+          "client_id": "517419486566-h51944u9fd13l11th25vfgkftdrqrlna.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "kaleo.chat.app",
+            "package_name": "com.mycompany.telamaltaria",
             "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
           }
         },
         {
-          "client_id": "221285397671-qjkub8unhoq4fie8dgu2ur4o08p4s0bu.apps.googleusercontent.com",
+          "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAcu3RAaR0kiASh5ihxu1KDcsraXuyvDpY"
+          "current_key": "AIzaSyBPhKYKs34wKxKdccGWc9y7ELd-hxG6d3M"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "221285397671-qjkub8unhoq4fie8dgu2ur4o08p4s0bu.apps.googleusercontent.com",
+              "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "221285397671-ts8o319tn4m9mu2qu5q98lvc7520rngf.apps.googleusercontent.com",
+              "client_id": "517419486566-e2ai5q8vmrob1tu2nj09nh51b2ad7uh3.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "KaleoChatApp"
+                "bundle_id": "com.mycompany.telamotoristas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517419486566:android:073234f365799ae71c8ca7",
+        "android_client_info": {
+          "package_name": "com.mycompany.telamotoristas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517419486566-tl7s6g3rg5iq5vuou4983thke8ecqg4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.telamotoristas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhKYKs34wKxKdccGWc9y7ELd-hxG6d3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517419486566-e2ai5q8vmrob1tu2nj09nh51b2ad7uh3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.telamotoristas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517419486566:android:9dac48d5e53137b71c8ca7",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPhKYKs34wKxKdccGWc9y7ELd-hxG6d3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517419486566-fm1ngfla2lspoahbcfu4a3nnbsmmk68i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517419486566-e2ai5q8vmrob1tu2nj09nh51b2ad7uh3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.telamotoristas"
               }
             }
           ]
